@@ -1,90 +1,102 @@
-<!-- Profile README for github.com/Dallasluis -->
+<!--
+  Miguel Luis | GitHub Profile
+  Minimal, premium developer profile.
+-->
 
-<h1 align="center">Hi, I'm Miguel Luis 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Developer</strong> · Namibia 🇳🇦
-</p>
+  <br />
 
-<p align="center">
-  I build practical web applications and backend systems, with a focus on clean, maintainable code and solving real problems.
-</p>
+  <h1>MIGUEL LUIS</h1>
+  <h3>SOFTWARE DEVELOPER&nbsp; · &nbsp;NAMIBIA 🇳🇦</h3>
 
-<p align="center">
-  <a href="https://github.com/Dallasluis">
-    <img src="https://img.shields.io/badge/GitHub-Dallasluis-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  <p>
+    Building thoughtful digital products, dependable backend systems<br />
+    and web applications that solve real problems.
+  </p>
+
+  <br />
+
+  <a href="https://github.com/Dallasluis?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge" alt="Software development" />
-  <img src="https://img.shields.io/badge/Location-Namibia-0D9488?style=for-the-badge" alt="Namibia" />
+  &nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
+  </a>
+
+  <br />
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E3A5F,100:0D9488&height=3&section=header" width="100%" alt="" />
+
+</div>
+
+## 01 / PROFILE
+
+I'm a Computer Science graduate focused on software development. I enjoy taking ideas from requirements to working software, with particular interest in backend engineering, API development, databases and well-structured applications.
+
+I value practical problem-solving, readable code and continuously improving how software is designed and delivered.
+
+## 02 / TECHNOLOGY
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,php,python&theme=dark" alt="C sharp, Java, JavaScript, PHP and Python" />
 </p>
+
+**Frameworks & web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,react,html,css&theme=dark" alt=".NET, Laravel, React, HTML and CSS" />
+</p>
+
+**Data & developer tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb,git,github,docker&theme=dark" alt="SQL Server, MySQL, MongoDB, Git, GitHub and Docker" />
+</p>
+
+## 03 / SELECTED WORK
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Internship Management</h3>
+      <p>A web platform for managing internship opportunities and applications, connecting students and companies through dedicated workflows and role-based experiences.</p>
+      <p><strong>Built with</strong><br />ASP.NET Core · C# · Entity Framework Core · SQL Server</p>
+      <a href="https://github.com/Dallasluis/InternshipManagement">VIEW PROJECT ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Task Manager</h3>
+      <p>A task management application exploring practical ways to organise work, track tasks and structure application functionality.</p>
+      <p><strong>Explore the implementation</strong><br />Review the repository for its current features and technology choices.</p>
+      <a href="https://github.com/Dallasluis/taskmanager">VIEW PROJECT ↗</a>
+    </td>
+  </tr>
+</table>
+
+## 04 / CURRENT DIRECTION
+
+- Developing stronger skills in **C# and ASP.NET Core**
+- Building and integrating **REST APIs**
+- Improving database design and **Entity Framework Core** practices
+- Learning more about application security, system design and deployment
+- Exploring modern frontend development
+
+## 05 / GITHUB
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dallasluis&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=2DD4BF&rank_icon=github" alt="GitHub statistics" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dallasluis&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used languages" />
+</div>
 
 ---
 
-## About
-
-I'm a Computer Science graduate focused on software development. I enjoy turning requirements into useful applications, working with APIs and databases, and learning how to design systems that are reliable and maintainable.
-
-My current development interests include:
-
-- Backend development with **C# and ASP.NET Core**
-- Building and consuming **REST APIs**
-- Relational database design and **Entity Framework Core**
-- Authentication, authorization, and application architecture
-- Full-stack web development
-
-## Tech Stack
-
-<p>
-  <strong>Languages</strong><br />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C sharp" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<p>
-  <strong>Frameworks & Web</strong><br />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p>
-  <strong>Databases & Tools</strong><br />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## Featured Projects
-
-### [Internship Management System](https://github.com/Dallasluis/InternshipManagement)
-
-A web-based platform for managing internship opportunities and applications. The project focuses on the workflows between students and companies, including opportunity listings, applications, and role-based areas of the system.
-
-**Technologies:** ASP.NET Core · C# · Entity Framework Core · SQL Server
-
-### [Task Manager](https://github.com/Dallasluis/taskmanager)
-
-A task management project exploring the development of applications that help users organise and track work.
-
-**Explore:** [Repository](https://github.com/Dallasluis/taskmanager)
-
-## Currently Learning & Improving
-
-- Designing maintainable ASP.NET Core applications
-- API development, security, and authentication
-- Database modelling and performance
-- Software architecture and deployment practices
-
----
-
-<p align="center">
-  Thanks for visiting my profile. Feel free to explore my repositories and follow along as I build and learn.
-</p>
+<div align="center">
+  <sub>OPEN TO LEARNING · BUILDING · COLLABORATING</sub>
+  <br />
+  <sub>Thanks for stopping by. Feel free to explore my repositories.</sub>
+</div>
