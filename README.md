@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/miguel-luis-software/">
     <img src="https://img.shields.io/badge/CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
   </a>
 
