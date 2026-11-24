@@ -40,23 +40,47 @@ I value practical problem-solving, readable code and continuously improving how 
 
 ## 02 / TECHNOLOGY
 
+A practical toolkit for building, testing and maintaining web applications.
+
 **Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,java,js,php,python&theme=dark" alt="C sharp, Java, JavaScript, PHP and Python" />
 </p>
 
-**Frameworks & web**
+**Frontend development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,react,html,css&theme=dark" alt=".NET, Laravel, React, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="HTML, CSS, React and Tailwind CSS" />
 </p>
 
-**Data & developer tools**
+**Backend & frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb,git,github,docker&theme=dark" alt="SQL Server, MySQL, MongoDB, Git, GitHub and Docker" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel&theme=dark" alt=".NET and Laravel" />
 </p>
+ASP.NET Core · MVC · REST APIs · Entity Framework Core
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb&theme=dark" alt="SQL Server, MySQL and MongoDB" />
+</p>
+
+**Testing & quality**
+
+Unit testing · Integration testing · API testing with Insomnia · Debugging
+
+**DevOps, tools & collaboration**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio&theme=dark" alt="Git, GitHub, Docker, Visual Studio Code and Visual Studio" />
+</p>
+Git · GitHub · Docker · ClickUp
+
+**Software engineering**
+
+Object-oriented programming (OOP) · MVC · Authentication & authorization · Database design · Clean code · Layered architecture
 
 ## 03 / SELECTED WORK
 
